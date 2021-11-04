@@ -1,0 +1,31 @@
+body{
+    font-family: Arial;
+    font-size: 1em;
+}
+
+header,footer {
+    padding: 10px;
+    color: white;
+    background:deepskyblue;
+}
+
+section{
+    margin: 5px;
+    padding: 10px;
+    background: lightblue;
+}
+
+article {
+    margin: 5px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+nav ul{
+    list-style: none;
+    padding: 10px;
+}
+
+nau ul li {
+    display: inline;
+    margin: 10px;
+}
